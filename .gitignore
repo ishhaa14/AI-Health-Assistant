@@ -1,0 +1,7 @@
+venv/
+venv312/
+backend/venv312/
+*.dll
+*.pyd
+__pycache__/
+*.pyc
